@@ -1,0 +1,2 @@
+# Javacore
+ javacorebassic
